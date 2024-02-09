@@ -1,5 +1,5 @@
 ## Objetivo
-El objetivo de este nivel es obtener la contraseña para el siguiente nivel (bandit1) almacenada en un archivo llamado README ubicado en el directorio de inicio.
+El objetivo de este nivel es obtener la contraseña para el siguiente nivel almacenada en un archivo llamado README ubicado en el directorio.
 ## Datos de acceso al nivel
 - Puerto: 2220
 - Dirección: bandit.labs.overthewire.org
